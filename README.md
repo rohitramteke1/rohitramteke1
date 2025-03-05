@@ -24,8 +24,8 @@ I'm a passionate developer with expertise in multiple programming languages and 
 
 ### 📊 GitHub Stats
 <!-- Let's make something awesome together! 🚀 -->
-![Profile Views](https://komarev.com/ghpvc/?username=rohitramteke1&label=Profile%20Views&color=blue&style=flat-square)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitramteke1&show_icons=true&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=rohitramteke1&label=Profile%20Views&color=blue&style=flat-square)
 
 ### 💌 Contact Me
 [![Gmail](https://img.shields.io/badge/Email-ramteker284@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramteker284@gmail.com)
