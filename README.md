@@ -1,7 +1,5 @@
 # Hi there, I'm Rohit Ramteke! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohitramteke1&label=Profile%20Views&color=blue&style=flat-square)
-
 ## 🚀 About Me
 I'm a passionate developer with expertise in multiple programming languages and web technologies.
 
@@ -19,11 +17,14 @@ I'm a passionate developer with expertise in multiple programming languages and 
 - **Testing & CI/CD:** Jest, Mocha, GitHub Actions  
 - **Video Editing:** After Effects  
 
-### 📂 Additional Skills (Least Priority)
+### 📂 Additional Skills 
 - **Operating Systems:** Linux, Windows, Ubuntu  
 - **Scripting & Shell:** Bash  
 
+
 ### 📊 GitHub Stats
+<!-- Let's make something awesome together! 🚀 -->
+![Profile Views](https://komarev.com/ghpvc/?username=rohitramteke1&label=Profile%20Views&color=blue&style=flat-square)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitramteke1&show_icons=true&theme=dark)
 
 ### 💌 Contact Me
@@ -33,4 +34,5 @@ I'm a passionate developer with expertise in multiple programming languages and 
 
 [![Twitter](https://img.shields.io/badge/Twitter-@RohitRamtekeDev-blue?style=for-the-badge&logo=twitter)](https://twitter.com/RohitRamtekeDev)
 
-<!-- Let's make something awesome together! 🚀 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@rohit--ramteke--rr-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-ramteke-rr/)
+
