@@ -11,7 +11,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 
 ### 🔥 Top Skills
 - **Backend Development:** Node.js, Express.js, CORS, JWT, MySQL, MongoDB
-- **Full Stack Development:** React.js, Next.js, JavaScript, TypeScript, CSS, HTML
+- **Full Stack Development:** React.js, JavaScript, TypeScript, CSS, HTML
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins
 - **DSA:** Data Structures and Algorithms (CPP14)
 
