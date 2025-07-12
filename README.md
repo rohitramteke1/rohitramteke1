@@ -1,9 +1,30 @@
 # Hi there, I'm Rohit Ramteke! 👋
 
-[![Modern-Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitramteke.in/)
-[![New-Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-red?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitramteke.vercel.app/)
-[![Old-Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitramteke-old.vercel.app/)
+# Hi there, I'm Rohit Ramteke! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+Developer;AWS+Cloud+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitramteke1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
 ---
+
+## 🚀 Portfolio Showcase
+
+<div align="center">
+  <a href="https://rohitramteke.in/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://rohitramteke.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Vercel%20Demo-red?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Portfolio" />
+  </a>
+  <a href="https://rohitramteke-old.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Legacy%20Demo-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Legacy Portfolio" />
+  </a>
+</div>
 
 ## 🚀 About Me
 I'm a passionate developer with expertise in multiple programming languages and web technologies.
