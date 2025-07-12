@@ -1,7 +1,7 @@
 # Hi there, I'm Rohit Ramteke! 👋
 
-[![Modern-Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitramteke.in/)
-[![New-Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitramteke.vercel.app/)
+[![Modern-Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitramteke.in/)
+[![New-Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-red?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitramteke.vercel.app/)
 [![Old-Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitramteke-old.vercel.app/)
 ---
 
