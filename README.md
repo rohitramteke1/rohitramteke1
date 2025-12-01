@@ -49,7 +49,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 
 ## 🏅 Certifications
 
-<img width="60" height="60" alt="aws-certified-cloud-practitioner (1)" src="https://github.com/user-attachments/assets/114a71dd-c862-48ba-85c4-10590ff4e7b1" />
+<img width="120" height="120" alt="aws-certified-cloud-practitioner (1)" src="https://github.com/user-attachments/assets/114a71dd-c862-48ba-85c4-10590ff4e7b1" />
 
 
 ### 📂 Additional Skills 
