@@ -49,7 +49,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 
 ## 🏅 Certifications
 
-[![AWS Cloud Practitioner](https://images.credly.com/size/340x340/images/abc123.png)](https://www.credly.com/badges/62922053-ce88-4a72-890b-4bf136bc45be/public_url)
+[![AWS Cloud Practitioner](https://www.credly.com/badges/62922053-ce88-4a72-890b-4bf136bc45be/public_url)
 
 
 ### 📂 Additional Skills 
